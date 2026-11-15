@@ -1,0 +1,172 @@
+{
+  "estilos": [
+    {
+      "id": "mexicana-en-un-barrio",
+      "titulo": "Mexicana en un barrio",
+      "descripcion": "Caricatura 3D de 90 s: Antares, José Luis y Jazbek, con humor de barrio y sus propias voces. Tú das el tema o el guion; sale con presentación, 9 clips de Google Flow y cierre «¡CONTINUARÁ!» con créditos.",
+      "autor": "Lupixto",
+      "icono": "risa",
+      "archivo": "estilos/mexicana-en-un-barrio.sloth-estilo"
+    },
+    {
+      "id": "video-ensayo-documental-lite",
+      "titulo": "Video Ensayo Documental - Lite",
+      "descripcion": "Estilo de video ensayo periodístico de alta retención (estilo Vox / Johnny Harris) optimizado para generar gráficos esquemáticos 3D, mapas de redes y visualización de datos en Google Flow (Omni 1.1 Flash 720p) con ahorro máximo de créditos y tokens.",
+      "autor": "MANNGUITO",
+      "icono": "noticiero",
+      "archivo": "estilos/video-ensayo-documental-lite.sloth-estilo"
+    },
+    {
+      "id": "reto-dinero",
+      "titulo": "Reto del dinero",
+      "descripcion": "Un reto de gastar una fortuna en 24 horas, en un mundo 3D low-poly que la cámara rodea: muñecos de palitos que reaccionan, carteles con cifras y una palabra amarilla a la vez, con voz de edge-tts y un final que pide tu comentario.",
+      "autor": "Jeferson Jara",
+      "icono": "globo",
+      "archivo": "estilos/reto-dinero.sloth-estilo"
+    },
+    {
+      "id": "memes-recreados",
+      "titulo": "Memes recreados",
+      "descripcion": "Recrea memes con los personajes que describas. Solo imágenes 4:5 de alta resolución.",
+      "autor": "Piñatosoft",
+      "icono": "imagen",
+      "archivo": "estilos/memes-recreados.sloth-estilo"
+    },
+    {
+      "id": "frutinovela-lite",
+      "titulo": "Frutinovelas Lite",
+      "descripcion": "Flujo ultra-optimizado para producir episodios de Frutinovelas con frutas, verduras y alimentos antropomórficos. Recibe el guion listo, omite subtítulos y bucles de revisión, generando clips en lote con Omni 1.1 Flash 720p en Google Flow.",
+      "autor": "MANNGUITO",
+      "icono": "claqueta",
+      "archivo": "estilos/frutinovela-lite.sloth-estilo"
+    },
+    {
+      "id": "director-audiovisual-pro",
+      "titulo": "Director Audiovisual PRO",
+      "descripcion": "Un solo director audiovisual para ingeniería, mapas y documentales: guion medido con WAV, clips reales, ritmo cinematográfico, música opcional, sonido, revisión y MP4 descargable. No finge animación con zoom.",
+      "autor": "jesusd21",
+      "icono": "claqueta",
+      "archivo": "estilos/director-audiovisual-pro.sloth-estilo"
+    },
+    {
+      "id": "fabulas-de-vida",
+      "titulo": "Fábulas de vida",
+      "descripcion": "Fábulas ilustradas como cine mudo: personajes que actúan con emociones sutiles y narración en off, sin música.",
+      "autor": "Gera Boy",
+      "icono": "escena",
+      "archivo": "estilos/fabulas-de-vida.sloth-estilo"
+    },
+    {
+      "id": "animal-drama-lite",
+      "titulo": "Animal Drama Lite",
+      "descripcion": "Flujo ultra-optimizado de Animal Drama para Sloth (Gravity) que recibe el guion listo del usuario, genera los cuadros y clips en Google Flow con Omni 1.1 Flash 720p y une el video sin subtítulos ni bucles de revisión.",
+      "autor": "MANNGUITO",
+      "icono": "claqueta",
+      "archivo": "estilos/animal-drama-lite.sloth-estilo"
+    },
+    {
+      "id": "avatar-editorial",
+      "titulo": "Avatar editorial",
+      "descripcion": "Una mujer ficticia de est?tica sensual y elegante, im?genes consistentes y clips de moda con luz c?lida.",
+      "autor": "Patricio Ferrer (ALEX en TIKTOK) CHILE",
+      "icono": "personas",
+      "archivo": "estilos/avatar-editorial.sloth-estilo"
+    },
+    {
+      "id": "cronica-3d",
+      "titulo": "CRÓNICA 3D",
+      "descripcion": "Documentales en miniatura de 60 a 90 s (o 2-3 min): cada hecho narrado es una recreación 3D animada distinta, con personajes, épocas y lugares que cambian con la historia, cámara de cine y titulares sincronizados con la voz.",
+      "autor": "JWIZ",
+      "icono": "claqueta",
+      "archivo": "estilos/cronica-3d.sloth-estilo"
+    },
+    {
+      "id": "curiosidades-v2",
+      "titulo": "Curiosidades v2",
+      "descripcion": "Tu idea, un guion con gancho y tu audio de ElevenLabs. Realismo en Google Flow, siempre vertical, sin música ni audio de Flow.",
+      "autor": "Miteh",
+      "icono": "foco",
+      "archivo": "estilos/curiosidades-v2.sloth-estilo"
+    },
+    {
+      "id": "morena-en-tu-barrio",
+      "titulo": "Morena en tu barrio",
+      "descripcion": "Caricatura 3D de 90 s: Antares, José Luis y Jazbek, con humor de barrio y sus propias voces. Tú das el tema o el guion; sale con presentación, 9 clips de Google Flow y cierre «¡CONTINUARÁ!» con créditos.",
+      "autor": "Lupixto",
+      "icono": "risa",
+      "archivo": "estilos/morena-en-tu-barrio.sloth-estilo"
+    },
+    {
+      "id": "vida-cotidiana-2d",
+      "titulo": "Vida cotidiana · Cartoon 2D",
+      "descripcion": "Historias de un minuto en cartoon 2D, con voces generadas, personajes iguales en todas las escenas y cierre fijo: «Sígueme».",
+      "autor": "aldo_auradrones",
+      "icono": "personas",
+      "archivo": "estilos/vida-cotidiana-2d.sloth-estilo"
+    },
+    {
+      "id": "ingenieria-al-descubierto-pro",
+      "titulo": "Ingeniería al Descubierto PRO",
+      "descripcion": "Desmonta máquinas y mecanismos con diagramas dinámicos que explican causa y efecto. Clips animados reales, calidad cinematográfica y duración ajustable.",
+      "autor": "jesusd21",
+      "icono": "pizarra",
+      "archivo": "estilos/ingenieria-al-descubierto-pro.sloth-estilo"
+    },
+    {
+      "id": "dramabox-fantasia",
+      "titulo": "DramaBox Fantasía",
+      "descripcion": "Episodios de fantasía épica (6 clips, realismo 8K): cuerpos completos con extras al fondo, cámara 3D dinámica, regla de oro de bocas y todas las voces (narrador y diálogos) generadas en AI Studio y sincronizadas.",
+      "autor": "MANNGUITO",
+      "icono": "claqueta",
+      "archivo": "estilos/dramabox-fantasia.sloth-estilo"
+    },
+    {
+      "id": "datos-oddex",
+      "titulo": "Datos ODDEX",
+      "descripcion": "Tu idea, un guion con gancho y tu audio de ElevenLabs. Realismo en Google Flow, siempre vertical, sin música ni audio de Flow.",
+      "autor": "Miteh",
+      "icono": "foco",
+      "archivo": "estilos/datos-oddex.sloth-estilo"
+    },
+    {
+      "id": "anime-music-story",
+      "titulo": "Anime Music Story",
+      "descripcion": "Secuencias visuales consistentes en animación 2D anime premium (estilo Ufotable/Mappa, cero 3D) para videos musicales narrativos de 1 a 1.5 minutos en bloques de 4s: cámara fluida continua, una sola acción por escena, boca siempre cerrada y coherencia exacta de personajes.",
+      "autor": "MANNGUITO",
+      "icono": "sonido",
+      "archivo": "estilos/anime-music-story.sloth-estilo"
+    },
+    {
+      "id": "fantasia-oscura",
+      "titulo": "Fantasía Oscura Serializada",
+      "descripcion": "Episodios serializados de fantasía oscura en 4K (Unreal Engine 5, lente 85mm f/1.8): armaduras con regla de los 3 materiales, iluminación bicolor con ojos/poder neón, ficha fija de personaje y clips en Google Flow con mezcla jerárquica de voz, SFX y cama con ducking.",
+      "autor": "MANNGUITO",
+      "icono": "claqueta",
+      "archivo": "estilos/fantasia-oscura.sloth-estilo"
+    },
+    {
+      "id": "reel-cristal",
+      "titulo": "Reel Cristal",
+      "descripcion": "Tu grabación con gráficos de cristal verde sobre negro, guion con gancho y subtítulos palabra por palabra. Vertical u horizontal.",
+      "autor": "Ricardo E.P.",
+      "icono": "claqueta",
+      "archivo": "estilos/reel-cristal.sloth-estilo"
+    },
+    {
+      "id": "animal-drama",
+      "titulo": "Animal Drama",
+      "descripcion": "Drama y rap storytelling 3D hiperrealista 8K de animales antropomórficos en Omni 1.1 Flash (720p): cámara en movimiento continuo, regla facial estricta de bocas, voces y SFX integrados en Flow y cortes dinámicos de 8s y 4s.",
+      "autor": "MANNGUITO",
+      "icono": "claqueta",
+      "archivo": "estilos/animal-drama.sloth-estilo"
+    },
+    {
+      "id": "comedia-rural",
+      "titulo": "Comedia rural",
+      "descripcion": "Historias breves con personajes realistas, di?logos y humor en una casa rural.",
+      "autor": "mariano",
+      "icono": "escena",
+      "archivo": "estilos/comedia-rural.sloth-estilo"
+    }
+  ]
+}
