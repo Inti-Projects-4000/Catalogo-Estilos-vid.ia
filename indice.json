@@ -17,20 +17,20 @@
       "archivo": "estilos/video-ensayo-documental-lite.sloth-estilo"
     },
     {
-      "id": "reto-dinero",
-      "titulo": "Reto del dinero",
-      "descripcion": "Un reto de gastar una fortuna en 24 horas, en un mundo 3D low-poly que la cámara rodea: muñecos de palitos que reaccionan, carteles con cifras y una palabra amarilla a la vez, con voz de edge-tts y un final que pide tu comentario.",
-      "autor": "Jeferson Jara",
+      "id": "retos-3d",
+      "titulo": "Retos en 3D",
+      "descripcion": "Un reto con plazo y regla cruel —gastar una fortuna en un día, aguantar un mes con poco, construir algo imposible a tiempo— contado en un mundo 3D pastel con muñequitos que reaccionan, tarjetas con cifras y una palabra amarilla a la vez. Voz de edge-tts y un final que pide tu comentario.",
+      "autor": "VID.IA",
       "icono": "globo",
-      "archivo": "estilos/reto-dinero.sloth-estilo"
+      "archivo": "estilos/retos-3d.sloth-estilo"
     },
     {
-      "id": "memes-recreados",
-      "titulo": "Memes recreados",
-      "descripcion": "Recrea memes con los personajes que describas. Solo imágenes 4:5 de alta resolución.",
-      "autor": "Piñatosoft",
-      "icono": "imagen",
-      "archivo": "estilos/memes-recreados.sloth-estilo"
+      "id": "memes",
+      "titulo": "Memes",
+      "descripcion": "Todo meme en un estilo: en video o en imagen, con sus personajes originales o recreados como tú digas, animado en edición sin créditos o con los personajes moviéndose de verdad con Flow. El texto va en los cuadros del meme, la cámara recorre sus paneles y el remate cae con sonido.",
+      "autor": "VID.IA",
+      "icono": "risa",
+      "archivo": "estilos/memes.sloth-estilo"
     },
     {
       "id": "frutinovela-lite",
