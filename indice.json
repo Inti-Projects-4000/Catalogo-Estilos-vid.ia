@@ -22,7 +22,8 @@
       "descripcion": "Un reto con plazo y regla cruel —gastar una fortuna en un día, aguantar un mes con poco, construir algo imposible a tiempo— contado en un mundo 3D pastel con muñequitos que reaccionan, tarjetas con cifras y una palabra amarilla a la vez. Voz de edge-tts y un final que pide tu comentario.",
       "autor": "VID.IA",
       "icono": "globo",
-      "archivo": "estilos/retos-3d.sloth-estilo"
+      "archivo": "estilos/retos-3d.sloth-estilo",
+      "ejemplo": "ejemplos/retos-3d.mp4"
     },
     {
       "id": "memes",
