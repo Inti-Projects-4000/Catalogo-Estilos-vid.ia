@@ -173,6 +173,10 @@
     {
       "id": "video-explicativo",
       "ejemplo": "ejemplos/video-explicativo.mp4"
+    },
+    {
+      "id": "reel-collage",
+      "ejemplo": "ejemplos/reel-collage.mp4"
     }
   ]
 }
