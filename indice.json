@@ -181,6 +181,10 @@
     {
       "id": "video-documental",
       "ejemplo": "ejemplos/video-documental.mp4"
+    },
+    {
+      "id": "video-el-diff",
+      "ejemplo": "ejemplos/video-el-diff.mp4"
     }
   ]
 }
