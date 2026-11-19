@@ -31,7 +31,8 @@
       "descripcion": "Todo meme en un estilo: en video o en imagen, con sus personajes originales o recreados como tú digas, animado en edición sin créditos o con los personajes moviéndose de verdad con Flow. El texto va en los cuadros del meme, la cámara recorre sus paneles y el remate cae con sonido.",
       "autor": "VID.IA",
       "icono": "risa",
-      "archivo": "estilos/memes.sloth-estilo"
+      "archivo": "estilos/memes.sloth-estilo",
+      "ejemplo": "ejemplos/memes.mp4"
     },
     {
       "id": "frutinovela-lite",
