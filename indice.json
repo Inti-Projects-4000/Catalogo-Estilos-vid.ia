@@ -168,5 +168,11 @@
       "icono": "escena",
       "archivo": "estilos/comedia-rural.sloth-estilo"
     }
+  ],
+  "fabrica": [
+    {
+      "id": "video-explicativo",
+      "ejemplo": "ejemplos/video-explicativo.mp4"
+    }
   ]
 }
