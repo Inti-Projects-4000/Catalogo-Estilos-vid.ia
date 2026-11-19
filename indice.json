@@ -6,7 +6,11 @@
       "descripcion": "Caricatura 3D de 90 s: Antares, José Luis y Jazbek, con humor de barrio y sus propias voces. Tú das el tema o el guion; sale con presentación, 9 clips de Google Flow y cierre «¡CONTINUARÁ!» con créditos.",
       "autor": "Lupixto",
       "icono": "risa",
-      "archivo": "estilos/mexicana-en-un-barrio.sloth-estilo"
+      "archivo": "estilos/mexicana-en-un-barrio.sloth-estilo",
+      "consejos": [
+        "Gasta créditos de Flow: sus 9 clips con Veo 3.1 - Lite son unos 90, más de lo que trae una cuenta gratis al día.",
+        "Trae el tema o el guion clip por clip; la presentación y el cierre no gastan créditos."
+      ]
     },
     {
       "id": "video-ensayo-documental-lite",
@@ -14,7 +18,11 @@
       "descripcion": "Estilo de video ensayo periodístico de alta retención (estilo Vox / Johnny Harris) optimizado para generar gráficos esquemáticos 3D, mapas de redes y visualización de datos en Google Flow (Omni 1.1 Flash 720p) con ahorro máximo de créditos y tokens.",
       "autor": "MANNGUITO",
       "icono": "noticiero",
-      "archivo": "estilos/video-ensayo-documental-lite.sloth-estilo"
+      "archivo": "estilos/video-ensayo-documental-lite.sloth-estilo",
+      "consejos": [
+        "Entrégale el guion ya escrito por bloques: así gasta menos.",
+        "Gasta créditos de Flow con Omni 1.1 Flash (12 por clip). Omni 1.1 se retira el 5 de diciembre: usará otro modelo parecido y te dirá el costo antes."
+      ]
     },
     {
       "id": "retos-3d",
@@ -23,7 +31,12 @@
       "autor": "VID.IA",
       "icono": "globo",
       "archivo": "estilos/retos-3d.sloth-estilo",
-      "ejemplo": "ejemplos/retos-3d.mp4"
+      "ejemplo": "ejemplos/retos-3d.mp4",
+      "consejos": [
+        "Da el reto en una frase: qué, en cuánto tiempo y qué pierdes si fallas.",
+        "La voz de edge-tts es gratis y no gasta créditos de Flow.",
+        "Para el render deja unos 8 GB libres en el disco."
+      ]
     },
     {
       "id": "memes",
@@ -32,7 +45,13 @@
       "autor": "VID.IA",
       "icono": "risa",
       "archivo": "estilos/memes.sloth-estilo",
-      "ejemplo": "ejemplos/memes.mp4"
+      "ejemplo": "ejemplos/memes.mp4",
+      "consejos": [
+        "«Sin créditos» anima el meme en edición y no gasta nada; «Con Flow» mueve a los personajes y gasta unos 10 créditos.",
+        "Al recrear un meme famoso, Flow a veces rechaza la imagen original: describe a tus personajes con tus palabras.",
+        "«Imagen» saca un PNG 4:5, listo para Instagram.",
+        "Para el render deja unos 5 GB libres en el disco."
+      ]
     },
     {
       "id": "frutinovela-lite",
@@ -40,7 +59,11 @@
       "descripcion": "Flujo ultra-optimizado para producir episodios de Frutinovelas con frutas, verduras y alimentos antropomórficos. Recibe el guion listo, omite subtítulos y bucles de revisión, generando clips en lote con Omni 1.1 Flash 720p en Google Flow.",
       "autor": "MANNGUITO",
       "icono": "claqueta",
-      "archivo": "estilos/frutinovela-lite.sloth-estilo"
+      "archivo": "estilos/frutinovela-lite.sloth-estilo",
+      "consejos": [
+        "Necesita tu guion listo: no lo escribe ni lo revisa, por eso es más rápido.",
+        "Gasta créditos de Flow con Omni 1.1 Flash (12 por clip). Omni 1.1 se retira el 5 de diciembre: usará otro modelo parecido y te dirá el costo antes."
+      ]
     },
     {
       "id": "director-audiovisual-pro",
@@ -48,7 +71,12 @@
       "descripcion": "Un solo director audiovisual para ingeniería, mapas y documentales: guion medido con WAV, clips reales, ritmo cinematográfico, música opcional, sonido, revisión y MP4 descargable. No finge animación con zoom.",
       "autor": "jesusd21",
       "icono": "claqueta",
-      "archivo": "estilos/director-audiovisual-pro.sloth-estilo"
+      "archivo": "estilos/director-audiovisual-pro.sloth-estilo",
+      "consejos": [
+        "Usa clips reales de internet; si eliges un modelo de clips, también los genera en Flow y gasta créditos.",
+        "La voz la genera AI Studio o la pones tú.",
+        "Para el render deja unos 8 GB libres en el disco."
+      ]
     },
     {
       "id": "fabulas-de-vida",
@@ -56,7 +84,12 @@
       "descripcion": "Fábulas ilustradas como cine mudo: personajes que actúan con emociones sutiles y narración en off, sin música.",
       "autor": "Gera Boy",
       "icono": "escena",
-      "archivo": "estilos/fabulas-de-vida.sloth-estilo"
+      "archivo": "estilos/fabulas-de-vida.sloth-estilo",
+      "consejos": [
+        "Gasta créditos de Flow: hace un clip de 8 s por escena (10 créditos cada uno con Veo 3.1 - Lite).",
+        "Lleva narración en off y va sin música.",
+        "Al pedirlo, di la enseñanza en una frase."
+      ]
     },
     {
       "id": "animal-drama-lite",
@@ -64,7 +97,11 @@
       "descripcion": "Flujo ultra-optimizado de Animal Drama que recibe el guion listo del usuario, genera los cuadros y clips en Google Flow con Omni 1.1 Flash 720p y une el video sin subtítulos ni bucles de revisión.",
       "autor": "MANNGUITO",
       "icono": "claqueta",
-      "archivo": "estilos/animal-drama-lite.sloth-estilo"
+      "archivo": "estilos/animal-drama-lite.sloth-estilo",
+      "consejos": [
+        "Necesita tu guion listo: no lo escribe ni lo revisa, por eso es más rápido.",
+        "Gasta créditos de Flow con Omni 1.1 Flash (12 por clip). Omni 1.1 se retira el 5 de diciembre: usará otro modelo parecido y te dirá el costo antes."
+      ]
     },
     {
       "id": "avatar-editorial",
@@ -72,7 +109,11 @@
       "descripcion": "Una mujer ficticia de estética sensual y elegante, imágenes consistentes y clips de moda con luz cálida.",
       "autor": "Patricio Ferrer (ALEX en TIKTOK) CHILE",
       "icono": "personas",
-      "archivo": "estilos/avatar-editorial.sloth-estilo"
+      "archivo": "estilos/avatar-editorial.sloth-estilo",
+      "consejos": [
+        "Los clips gastan créditos de Flow (Veo 3.1 - Lite, 10 cada uno); las imágenes no.",
+        "La persona es ficticia: no la uses para imitar a alguien real."
+      ]
     },
     {
       "id": "cronica-3d",
@@ -80,7 +121,11 @@
       "descripcion": "Documentales en miniatura de 60 a 90 s (o 2-3 min): cada hecho narrado es una recreación 3D animada distinta, con personajes, épocas y lugares que cambian con la historia, cámara de cine y titulares sincronizados con la voz.",
       "autor": "JWIZ",
       "icono": "claqueta",
-      "archivo": "estilos/cronica-3d.sloth-estilo"
+      "archivo": "estilos/cronica-3d.sloth-estilo",
+      "consejos": [
+        "Puede pedir hasta 16 clips de Flow: con Veo 3.1 - Lite son unos 160 créditos. Suma cuentas o pide una versión más corta.",
+        "La voz la genera AI Studio o la pones tú."
+      ]
     },
     {
       "id": "curiosidades-v2",
@@ -88,15 +133,12 @@
       "descripcion": "Tu idea, un guion con gancho y tu audio de ElevenLabs. Realismo en Google Flow, siempre vertical, sin música ni audio de Flow.",
       "autor": "Miteh",
       "icono": "foco",
-      "archivo": "estilos/curiosidades-v2.sloth-estilo"
-    },
-    {
-      "id": "morena-en-tu-barrio",
-      "titulo": "Morena en tu barrio",
-      "descripcion": "Caricatura 3D de 90 s: Antares, José Luis y Jazbek, con humor de barrio y sus propias voces. Tú das el tema o el guion; sale con presentación, 9 clips de Google Flow y cierre «¡CONTINUARÁ!» con créditos.",
-      "autor": "Lupixto",
-      "icono": "risa",
-      "archivo": "estilos/morena-en-tu-barrio.sloth-estilo"
+      "archivo": "estilos/curiosidades-v2.sloth-estilo",
+      "consejos": [
+        "Necesitas tu audio de ElevenLabs: el estilo espera a que lo mandes.",
+        "Siempre vertical.",
+        "Los clips van con Veo 3.1 - Fast (20 créditos cada uno). Fast se retira el 5 de diciembre: usará otro modelo parecido y te dirá el costo antes."
+      ]
     },
     {
       "id": "vida-cotidiana-2d",
@@ -104,7 +146,11 @@
       "descripcion": "Historias de un minuto en cartoon 2D, con voces generadas, personajes iguales en todas las escenas y cierre fijo: «Sígueme».",
       "autor": "aldo_auradrones",
       "icono": "personas",
-      "archivo": "estilos/vida-cotidiana-2d.sloth-estilo"
+      "archivo": "estilos/vida-cotidiana-2d.sloth-estilo",
+      "consejos": [
+        "Las voces de los personajes salen de Flow con cada clip: gasta créditos (Veo 3.1 - Lite, 10 cada uno).",
+        "Cierra siempre con «Sígueme»."
+      ]
     },
     {
       "id": "ingenieria-al-descubierto-pro",
@@ -112,7 +158,12 @@
       "descripcion": "Desmonta máquinas y mecanismos con diagramas dinámicos que explican causa y efecto. Clips animados reales, calidad cinematográfica y duración ajustable.",
       "autor": "jesusd21",
       "icono": "pizarra",
-      "archivo": "estilos/ingenieria-al-descubierto-pro.sloth-estilo"
+      "archivo": "estilos/ingenieria-al-descubierto-pro.sloth-estilo",
+      "consejos": [
+        "Según lo que elijas en Imágenes y Clips, gasta créditos de ChatGPT o de Google Flow.",
+        "Funciona mejor con una máquina o un mecanismo concreto.",
+        "Para el render deja unos 8 GB libres en el disco."
+      ]
     },
     {
       "id": "dramabox-fantasia",
@@ -120,7 +171,11 @@
       "descripcion": "Episodios de fantasía épica (6 clips, realismo 8K): cuerpos completos con extras al fondo, cámara 3D dinámica, regla de oro de bocas y todas las voces (narrador y diálogos) generadas en AI Studio y sincronizadas.",
       "autor": "MANNGUITO",
       "icono": "claqueta",
-      "archivo": "estilos/dramabox-fantasia.sloth-estilo"
+      "archivo": "estilos/dramabox-fantasia.sloth-estilo",
+      "consejos": [
+        "6 clips de Flow por episodio (Omni 1.1 Flash, 12 cada uno, o Veo 3.1 - Lite, 10).",
+        "Las voces van aparte, en AI Studio, sin créditos de Flow."
+      ]
     },
     {
       "id": "datos-oddex",
@@ -128,7 +183,12 @@
       "descripcion": "Tu idea, un guion con gancho y tu audio de ElevenLabs. Realismo en Google Flow, siempre vertical, sin música ni audio de Flow.",
       "autor": "Miteh",
       "icono": "foco",
-      "archivo": "estilos/datos-oddex.sloth-estilo"
+      "archivo": "estilos/datos-oddex.sloth-estilo",
+      "consejos": [
+        "Necesitas tu audio de ElevenLabs: el estilo espera a que lo mandes.",
+        "Siempre vertical.",
+        "Los clips van con Veo 3.1 - Fast (20 créditos cada uno). Fast se retira el 5 de diciembre: usará otro modelo parecido y te dirá el costo antes."
+      ]
     },
     {
       "id": "anime-music-story",
@@ -136,7 +196,11 @@
       "descripcion": "Secuencias visuales consistentes en animación 2D anime premium (estilo Ufotable/Mappa, cero 3D) para videos musicales narrativos de 1 a 1.5 minutos en bloques de 4s: cámara fluida continua, una sola acción por escena, boca siempre cerrada y coherencia exacta de personajes.",
       "autor": "MANNGUITO",
       "icono": "sonido",
-      "archivo": "estilos/anime-music-story.sloth-estilo"
+      "archivo": "estilos/anime-music-story.sloth-estilo",
+      "consejos": [
+        "La música va aparte, en tu edición: el estilo hace solo las imágenes.",
+        "Sus clips de 4 s van con Veo 3.1 - Lite: gasta créditos de Flow."
+      ]
     },
     {
       "id": "fantasia-oscura",
@@ -144,7 +208,10 @@
       "descripcion": "Episodios serializados de fantasía oscura en 4K (Unreal Engine 5, lente 85mm f/1.8): armaduras con regla de los 3 materiales, iluminación bicolor con ojos/poder neón, ficha fija de personaje y clips en Google Flow con mezcla jerárquica de voz, SFX y cama con ducking.",
       "autor": "MANNGUITO",
       "icono": "claqueta",
-      "archivo": "estilos/fantasia-oscura.sloth-estilo"
+      "archivo": "estilos/fantasia-oscura.sloth-estilo",
+      "consejos": [
+        "Un episodio completo lleva unos 22 clips de Flow: con Veo 3.1 - Lite son unos 220 créditos. Suma cuentas o haz primero una escena."
+      ]
     },
     {
       "id": "reel-cristal",
@@ -153,7 +220,13 @@
       "autor": "Ricardo E.P.",
       "icono": "claqueta",
       "archivo": "estilos/reel-cristal.sloth-estilo",
-      "ejemplo": "ejemplos/reel-cristal.mp4"
+      "ejemplo": "ejemplos/reel-cristal.mp4",
+      "consejos": [
+        "Necesitas tu grabación; puedes subir varias tomas.",
+        "No gasta créditos de Flow.",
+        "Los gráficos deben llevar datos reales.",
+        "Para el render deja unos 8 GB libres en el disco."
+      ]
     },
     {
       "id": "animal-drama",
@@ -161,7 +234,11 @@
       "descripcion": "Drama y rap storytelling 3D hiperrealista 8K de animales antropomórficos en Omni 1.1 Flash (720p): cámara en movimiento continuo, regla facial estricta de bocas, voces y SFX integrados en Flow y cortes dinámicos de 8s y 4s.",
       "autor": "MANNGUITO",
       "icono": "claqueta",
-      "archivo": "estilos/animal-drama.sloth-estilo"
+      "archivo": "estilos/animal-drama.sloth-estilo",
+      "consejos": [
+        "Gasta créditos de Flow con Omni 1.1 Flash (12 por clip); prueba primero con pocas escenas.",
+        "Omni 1.1 se retira el 5 de diciembre: usará otro modelo parecido y te dirá el costo antes."
+      ]
     },
     {
       "id": "comedia-rural",
@@ -169,29 +246,92 @@
       "descripcion": "Historias breves con personajes realistas, diálogos y humor en una casa rural.",
       "autor": "mariano",
       "icono": "escena",
-      "archivo": "estilos/comedia-rural.sloth-estilo"
+      "archivo": "estilos/comedia-rural.sloth-estilo",
+      "consejos": [
+        "Gasta créditos de Flow en cada clip."
+      ]
     }
   ],
   "fabrica": [
     {
       "id": "video-explicativo",
-      "ejemplo": "ejemplos/video-explicativo.mp4"
+      "ejemplo": "ejemplos/video-explicativo.mp4",
+      "consejos": [
+        "Graba tu voz en un lugar callado: el video se arma a su ritmo.",
+        "Uno de 30 a 60 s sale por $0,30 a $0,70 con Sonnet medio.",
+        "Si el tema pide un modelo 3D nuevo, tarda y cuesta más; los que ya tienes en «Modelos 3D» se reutilizan.",
+        "Para el render deja unos 8 GB libres en el disco."
+      ]
     },
     {
       "id": "reel-collage",
-      "ejemplo": "ejemplos/reel-collage.mp4"
+      "ejemplo": "ejemplos/reel-collage.mp4",
+      "consejos": [
+        "La primera vez tarda de 15 a 30 min en hacer a tu persona con IA.",
+        "Para agilizarlo, sube 9 fotos tuyas de cuerpo entero, con la misma ropa y en poses distintas: quedan guardadas y los siguientes reels salen en 10 a 20 min.",
+        "Tus personas guardadas se eligen con «Usar guardados».",
+        "La voz de edge-tts es gratis y no gasta créditos de Flow.",
+        "Para el render deja unos 8 GB libres en el disco."
+      ]
     },
     {
       "id": "video-documental",
-      "ejemplo": "ejemplos/video-documental.mp4"
+      "ejemplo": "ejemplos/video-documental.mp4",
+      "consejos": [
+        "Necesitas una grabación tuya hablando a cámara; puedes subir varias tomas.",
+        "En vertical, grábate de la cintura para arriba, con aire sobre la cabeza: ahí va la palabra roja.",
+        "Una toma de 1 min costó unos $0,40 con Sonnet medio.",
+        "No gasta créditos de Flow: el material sale de internet.",
+        "Para el render deja unos 8 GB libres en el disco."
+      ]
     },
     {
       "id": "video-el-diff",
-      "ejemplo": "ejemplos/video-el-diff.mp4"
+      "ejemplo": "ejemplos/video-el-diff.mp4",
+      "consejos": [
+        "Dale un enlace o un tema concreto: con el enlace investiga menos y gasta menos.",
+        "Un episodio de 1 min costó unos $1,20 y uno de 6 min unos $2 (Sonnet medio).",
+        "No gasta créditos de Flow.",
+        "Para el render deja unos 8 GB libres en el disco."
+      ]
     },
     {
       "id": "video-low-poly",
-      "ejemplo": "ejemplos/video-low-poly.mp4"
+      "ejemplo": "ejemplos/video-low-poly.mp4",
+      "consejos": [
+        "Funciona mejor con un proceso de etapas claras (el ciclo del agua, del cafetal a tu taza).",
+        "Pon tu voz o una de AI Studio.",
+        "Uno de 20 s costó unos $0,40; uno de 1 min no cuesta el triple.",
+        "No gasta créditos de Flow.",
+        "Para el render deja unos 8 GB libres en el disco."
+      ]
+    },
+    {
+      "id": "frutinovela",
+      "consejos": [
+        "Gasta créditos de Flow: cada clip de 8 s cuesta 10 con Veo 3.1 - Lite.",
+        "Prueba primero con 2 o 3 clips en un mismo lugar.",
+        "Habla un solo personaje por clip: escribe frases cortas, dichas con calma.",
+        "Si traes tu guion, no empieces una frase con el nombre de otro personaje: Flow la dice con la voz de ese personaje.",
+        "Para tener más créditos, agrega cuentas de Google en Opciones → Google Flow."
+      ]
+    },
+    {
+      "id": "retos-3d",
+      "consejos": [
+        "Da el reto en una frase: qué, en cuánto tiempo y qué pierdes si fallas.",
+        "La voz de edge-tts es gratis y no gasta créditos de Flow.",
+        "Para el render deja unos 8 GB libres en el disco."
+      ]
+    },
+    {
+      "id": "memes",
+      "consejos": [
+        "«Sin créditos» anima el meme en edición y no gasta nada; «Con Flow» mueve a los personajes y gasta unos 10 créditos.",
+        "Al recrear un meme famoso, Flow a veces rechaza la imagen original: describe a tus personajes con tus palabras.",
+        "«Imagen» saca un PNG 4:5, listo para Instagram.",
+        "Para el render deja unos 5 GB libres en el disco."
+      ]
     }
   ]
 }
