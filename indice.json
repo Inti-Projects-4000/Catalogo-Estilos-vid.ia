@@ -185,6 +185,10 @@
     {
       "id": "video-el-diff",
       "ejemplo": "ejemplos/video-el-diff.mp4"
+    },
+    {
+      "id": "video-low-poly",
+      "ejemplo": "ejemplos/video-low-poly.mp4"
     }
   ]
 }
