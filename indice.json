@@ -59,7 +59,7 @@
     {
       "id": "animal-drama-lite",
       "titulo": "Animal Drama Lite",
-      "descripcion": "Flujo ultra-optimizado de Animal Drama para Sloth (Gravity) que recibe el guion listo del usuario, genera los cuadros y clips en Google Flow con Omni 1.1 Flash 720p y une el video sin subtítulos ni bucles de revisión.",
+      "descripcion": "Flujo ultra-optimizado de Animal Drama que recibe el guion listo del usuario, genera los cuadros y clips en Google Flow con Omni 1.1 Flash 720p y une el video sin subtítulos ni bucles de revisión.",
       "autor": "MANNGUITO",
       "icono": "claqueta",
       "archivo": "estilos/animal-drama-lite.sloth-estilo"
