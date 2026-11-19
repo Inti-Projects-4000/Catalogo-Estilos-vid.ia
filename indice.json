@@ -152,7 +152,8 @@
       "descripcion": "Tu grabación con gráficos de cristal verde sobre negro, guion con gancho y subtítulos palabra por palabra. Vertical u horizontal.",
       "autor": "Ricardo E.P.",
       "icono": "claqueta",
-      "archivo": "estilos/reel-cristal.sloth-estilo"
+      "archivo": "estilos/reel-cristal.sloth-estilo",
+      "ejemplo": "ejemplos/reel-cristal.mp4"
     },
     {
       "id": "animal-drama",
