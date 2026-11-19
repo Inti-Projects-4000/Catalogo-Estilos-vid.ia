@@ -177,6 +177,10 @@
     {
       "id": "reel-collage",
       "ejemplo": "ejemplos/reel-collage.mp4"
+    },
+    {
+      "id": "video-documental",
+      "ejemplo": "ejemplos/video-documental.mp4"
     }
   ]
 }
