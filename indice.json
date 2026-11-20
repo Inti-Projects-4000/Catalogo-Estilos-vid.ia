@@ -96,7 +96,8 @@
         "Lleva narración en off y va sin música.",
         "Al pedirlo, di la enseñanza en una frase."
       ],
-      "detalle": "Fábulas ilustradas como cine mudo: personajes que actúan con emociones sutiles y narración en off, sin música."
+      "detalle": "Fábulas ilustradas como cine mudo: personajes que actúan con emociones sutiles y narración en off, sin música.",
+      "ejemplo": "ejemplos/fabulas-de-vida.mp4"
     },
     {
       "id": "animal-drama-lite",
