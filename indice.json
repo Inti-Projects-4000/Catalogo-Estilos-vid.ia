@@ -13,7 +13,7 @@
       ],
       "detalle": "Caricatura 3D de 90 s con humor de barrio: Antares, José Luis y Jazbek, u otros personajes que tú digas, con sus propias voces. Tú das el tema o el guion; sale con presentación, 9 clips de Google Flow y cierre «¡CONTINUARÁ!» con créditos.",
       "ejemplo": "ejemplos/mexicana-en-un-barrio.mp4",
-      "version": "2.2"
+      "version": "2.3"
     },
     {
       "id": "video-ensayo-documental-lite",
@@ -43,7 +43,7 @@
         "Para el render deja unos 8 GB libres en el disco."
       ],
       "detalle": "Un reto con plazo y regla cruel —gastar una fortuna en un día, aguantar un mes con poco, construir algo imposible a tiempo— contado en un mundo 3D pastel con muñequitos que reaccionan, tarjetas con cifras y una palabra amarilla a la vez. Voz de edge-tts y un final que pide tu comentario.",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "id": "memes",
@@ -60,7 +60,7 @@
         "Para el render deja unos 5 GB libres en el disco."
       ],
       "detalle": "Todo meme en un estilo: en video o en imagen, con sus personajes originales o recreados como tú digas, animado en edición sin créditos o con los personajes moviéndose de verdad con Flow. El texto va en los cuadros del meme, la cámara recorre sus paneles y el remate cae con sonido.",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "id": "frutinovela-lite",
@@ -90,7 +90,7 @@
         "Para el render deja unos 8 GB libres en el disco."
       ],
       "detalle": "Un solo director audiovisual para ingeniería, mapas y documentales: guion medido con WAV, clips reales, ritmo cinematográfico, música opcional, sonido, revisión y MP4 descargable. No finge animación con zoom.",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "id": "fabulas-de-vida",
@@ -136,7 +136,7 @@
       ],
       "detalle": "Una mujer ficticia de estética sensual y elegante, imágenes consistentes y clips de moda con luz cálida.",
       "ejemplo": "ejemplos/avatar-editorial.mp4",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "id": "cronica-3d",
@@ -150,7 +150,7 @@
         "La voz la genera AI Studio o la pones tú."
       ],
       "detalle": "Documentales en miniatura de 60 a 90 s (o 2-3 min): cada hecho narrado es una recreación 3D animada distinta, con personajes, épocas y lugares que cambian con la historia, cámara de cine y titulares sincronizados con la voz.",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "id": "curiosidades-v2",
@@ -165,7 +165,7 @@
         "Los clips van con Veo 3.1 - Fast (20 créditos cada uno). Fast se retira el 5 de diciembre: usará otro modelo parecido y te dirá el costo antes."
       ],
       "detalle": "Tu idea, un guion con gancho y tu audio de ElevenLabs. Realismo en Google Flow, siempre vertical, sin música ni audio de Flow.",
-      "version": "1.1"
+      "version": "1.2"
     },
     {
       "id": "vida-cotidiana-2d",
@@ -195,7 +195,7 @@
         "Para el render deja unos 8 GB libres en el disco."
       ],
       "detalle": "Desmonta máquinas y mecanismos con diagramas dinámicos que explican causa y efecto. Clips animados reales, calidad cinematográfica y duración ajustable.",
-      "version": "2.0"
+      "version": "2.1"
     },
     {
       "id": "dramabox-fantasia",
@@ -210,7 +210,7 @@
       ],
       "detalle": "Episodios de fantasía épica (6 clips, realismo 8K): cuerpos completos con extras al fondo, cámara 3D dinámica, regla de oro de bocas y todas las voces (narrador y diálogos) generadas en AI Studio y sincronizadas.",
       "ejemplo": "ejemplos/dramabox-fantasia.mp4",
-      "version": "1.2"
+      "version": "1.3"
     },
     {
       "id": "anime-music-story",
@@ -224,7 +224,7 @@
         "Sus clips de 4 s van con Veo 3.1 - Lite: gasta créditos de Flow."
       ],
       "detalle": "Secuencias visuales consistentes en animación 2D anime premium (estilo Ufotable/Mappa, cero 3D) para videos musicales narrativos de 1 a 1.5 minutos en bloques de 4s: cámara fluida continua, una sola acción por escena, boca siempre cerrada y coherencia exacta de personajes.",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "id": "fantasia-oscura",
@@ -237,7 +237,7 @@
         "Un episodio completo lleva unos 22 clips de Flow: con Veo 3.1 - Lite son unos 220 créditos. Suma cuentas o haz primero una escena."
       ],
       "detalle": "Episodios serializados de fantasía oscura en 4K (Unreal Engine 5, lente 85mm f/1.8): armaduras con regla de los 3 materiales, iluminación bicolor con ojos/poder neón, ficha fija de personaje y clips en Google Flow con mezcla jerárquica de voz, SFX y cama con ducking.",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "id": "reel-cristal",
@@ -254,7 +254,7 @@
         "Para el render deja unos 8 GB libres en el disco."
       ],
       "detalle": "Tu grabación con gráficos de cristal verde sobre negro, guion con gancho y subtítulos palabra por palabra. Vertical u horizontal.",
-      "version": "1.1"
+      "version": "1.2"
     },
     {
       "id": "animal-drama",
@@ -283,7 +283,7 @@
       ],
       "detalle": "Historias breves con personajes realistas, diálogos y humor en una casa rural.",
       "ejemplo": "ejemplos/comedia-rural.mp4",
-      "version": "1.2"
+      "version": "1.3"
     }
   ],
   "fabrica": [
