@@ -112,7 +112,8 @@
         "Necesita tu guion listo: no lo escribe ni lo revisa, por eso es más rápido.",
         "Gasta créditos de Flow con Omni 1.1 Flash (12 por clip). Omni 1.1 se retira el 5 de diciembre: usará otro modelo parecido y te dirá el costo antes."
       ],
-      "detalle": "Flujo ultra-optimizado de Animal Drama que recibe el guion listo del usuario, genera los cuadros y clips en Google Flow con Omni 1.1 Flash 720p y une el video sin subtítulos ni bucles de revisión."
+      "detalle": "Flujo ultra-optimizado de Animal Drama que recibe el guion listo del usuario, genera los cuadros y clips en Google Flow con Omni 1.1 Flash 720p y une el video sin subtítulos ni bucles de revisión.",
+      "ejemplo": "ejemplos/animal-drama-lite.mp4"
     },
     {
       "id": "avatar-editorial",
