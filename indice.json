@@ -195,7 +195,8 @@
         "6 clips de Flow por episodio (Omni 1.1 Flash, 12 cada uno, o Veo 3.1 - Lite, 10).",
         "Las voces van aparte, en AI Studio, sin créditos de Flow."
       ],
-      "detalle": "Episodios de fantasía épica (6 clips, realismo 8K): cuerpos completos con extras al fondo, cámara 3D dinámica, regla de oro de bocas y todas las voces (narrador y diálogos) generadas en AI Studio y sincronizadas."
+      "detalle": "Episodios de fantasía épica (6 clips, realismo 8K): cuerpos completos con extras al fondo, cámara 3D dinámica, regla de oro de bocas y todas las voces (narrador y diálogos) generadas en AI Studio y sincronizadas.",
+      "ejemplo": "ejemplos/dramabox-fantasia.mp4"
     },
     {
       "id": "anime-music-story",
