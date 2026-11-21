@@ -328,7 +328,8 @@
         "Habla un solo personaje por clip: escribe frases cortas, dichas con calma.",
         "Si traes tu guion, no empieces una frase con el nombre de otro personaje: Flow la dice con la voz de ese personaje.",
         "Para tener más créditos, agrega cuentas de Google en Opciones → Google Flow."
-      ]
+      ],
+      "ejemplo": "ejemplos/frutinovela.mp4"
     },
     {
       "id": "retos-3d",
