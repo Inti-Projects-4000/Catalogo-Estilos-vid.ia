@@ -69,7 +69,8 @@
         "Necesita tu guion listo: no lo escribe ni lo revisa, por eso es más rápido.",
         "Gasta créditos de Flow con Omni 1.1 Flash (12 por clip). Omni 1.1 se retira el 5 de diciembre: usará otro modelo parecido y te dirá el costo antes."
       ],
-      "detalle": "Flujo ultra-optimizado para producir episodios de Frutinovelas con frutas, verduras y alimentos antropomórficos. Recibe el guion listo, omite subtítulos y bucles de revisión, generando clips en lote con Omni 1.1 Flash 720p en Google Flow."
+      "detalle": "Flujo ultra-optimizado para producir episodios de Frutinovelas con frutas, verduras y alimentos antropomórficos. Recibe el guion listo, omite subtítulos y bucles de revisión, generando clips en lote con Omni 1.1 Flash 720p en Google Flow.",
+      "ejemplo": "ejemplos/frutinovela-lite.mp4"
     },
     {
       "id": "director-audiovisual-pro",
