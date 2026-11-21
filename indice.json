@@ -166,7 +166,8 @@
         "Las voces de los personajes salen de Flow con cada clip: gasta créditos (Veo 3.1 - Lite, 10 cada uno).",
         "Cierra siempre con «Sígueme»."
       ],
-      "detalle": "Historias de un minuto en cartoon 2D, con voces generadas, personajes iguales en todas las escenas y cierre fijo: «Sígueme»."
+      "detalle": "Historias de un minuto en cartoon 2D, con voces generadas, personajes iguales en todas las escenas y cierre fijo: «Sígueme».",
+      "ejemplo": "ejemplos/vida-cotidiana-2d.mp4"
     },
     {
       "id": "ingenieria-al-descubierto-pro",
