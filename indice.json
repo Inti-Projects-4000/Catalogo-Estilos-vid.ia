@@ -260,7 +260,8 @@
       "consejos": [
         "Gasta créditos de Flow en cada clip."
       ],
-      "detalle": "Historias breves con personajes realistas, diálogos y humor en una casa rural."
+      "detalle": "Historias breves con personajes realistas, diálogos y humor en una casa rural.",
+      "ejemplo": "ejemplos/comedia-rural.mp4"
     }
   ],
   "fabrica": [
