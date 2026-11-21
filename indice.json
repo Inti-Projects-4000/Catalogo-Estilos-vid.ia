@@ -339,7 +339,8 @@
         "Al recrear un meme famoso, Flow a veces rechaza la imagen original: describe a tus personajes con tus palabras.",
         "«Imagen» saca un PNG 4:5, listo para Instagram.",
         "Para el render deja unos 5 GB libres en el disco."
-      ]
+      ],
+      "ejemplo": "ejemplos/memes.mp4"
     }
   ],
   "ocultos": [
