@@ -329,7 +329,8 @@
         "Da el reto en una frase: qué, en cuánto tiempo y qué pierdes si fallas.",
         "La voz de edge-tts es gratis y no gasta créditos de Flow.",
         "Para el render deja unos 8 GB libres en el disco."
-      ]
+      ],
+      "ejemplo": "ejemplos/retos-3d.mp4"
     },
     {
       "id": "memes",
