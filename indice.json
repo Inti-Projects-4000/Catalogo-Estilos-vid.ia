@@ -197,7 +197,8 @@
         "Para el render deja unos 8 GB libres en el disco."
       ],
       "detalle": "Desmonta máquinas y mecanismos con diagramas dinámicos que explican causa y efecto. Clips animados reales, calidad cinematográfica y duración ajustable.",
-      "version": "2.1"
+      "version": "2.1",
+      "ejemplo": "ejemplos/ingenieria-al-descubierto-pro.mp4"
     },
     {
       "id": "dramabox-fantasia",
