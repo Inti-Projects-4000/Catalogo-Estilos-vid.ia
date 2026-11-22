@@ -239,7 +239,8 @@
         "Un episodio completo lleva unos 22 clips de Flow: con Veo 3.1 - Lite son unos 220 créditos. Suma cuentas o haz primero una escena."
       ],
       "detalle": "Episodios serializados de fantasía oscura en 4K (Unreal Engine 5, lente 85mm f/1.8): armaduras con regla de los 3 materiales, iluminación bicolor con ojos/poder neón, ficha fija de personaje y clips en Google Flow con mezcla jerárquica de voz, SFX y cama con ducking.",
-      "version": "1.1"
+      "version": "1.1",
+      "ejemplo": "ejemplos/fantasia-oscura.mp4"
     },
     {
       "id": "reel-cristal",
