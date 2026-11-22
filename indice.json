@@ -90,7 +90,8 @@
         "Para el render deja unos 8 GB libres en el disco."
       ],
       "detalle": "Un solo director audiovisual para ingeniería, mapas y documentales: guion medido con WAV, clips reales, ritmo cinematográfico, música opcional, sonido, revisión y MP4 descargable. No finge animación con zoom.",
-      "version": "1.1"
+      "version": "1.1",
+      "ejemplo": "ejemplos/director-audiovisual-pro.mp4"
     },
     {
       "id": "fabulas-de-vida",
