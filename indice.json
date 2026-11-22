@@ -27,7 +27,8 @@
         "Gasta créditos de Flow con Omni 1.1 Flash (12 por clip). Omni 1.1 se retira el 5 de diciembre: usará otro modelo parecido y te dirá el costo antes."
       ],
       "detalle": "Estilo de video ensayo periodístico de alta retención (estilo Vox / Johnny Harris) optimizado para generar gráficos esquemáticos 3D, mapas de redes y visualización de datos en Google Flow (Omni 1.1 Flash 720p) con ahorro máximo de créditos y tokens.",
-      "version": "1.3"
+      "version": "1.3",
+      "ejemplo": "ejemplos/video-ensayo-documental-lite.mp4"
     },
     {
       "id": "retos-3d",
