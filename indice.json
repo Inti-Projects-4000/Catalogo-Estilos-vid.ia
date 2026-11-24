@@ -227,7 +227,8 @@
         "Sus clips de 4 s van con Veo 3.1 - Lite: gasta créditos de Flow."
       ],
       "detalle": "Secuencias visuales consistentes en animación 2D anime premium (estilo Ufotable/Mappa, cero 3D) para videos musicales narrativos de 1 a 1.5 minutos en bloques de 4s: cámara fluida continua, una sola acción por escena, boca siempre cerrada y coherencia exacta de personajes.",
-      "version": "1.1"
+      "version": "1.1",
+      "ejemplo": "ejemplos/anime-music-story.mp4"
     },
     {
       "id": "fantasia-oscura",
