@@ -152,7 +152,8 @@
         "La voz la genera AI Studio o la pones tú."
       ],
       "detalle": "Documentales en miniatura de 60 a 90 s (o 2-3 min): cada hecho narrado es una recreación 3D animada distinta, con personajes, épocas y lugares que cambian con la historia, cámara de cine y titulares sincronizados con la voz.",
-      "version": "1.1"
+      "version": "1.1",
+      "ejemplo": "ejemplos/cronica-3d.mp4"
     },
     {
       "id": "curiosidades-v2",
