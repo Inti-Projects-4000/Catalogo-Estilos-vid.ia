@@ -1,6 +1,16 @@
 {
   "estilos": [
     {
+      "id": "duanju-cinematografico",
+      "titulo": "Duanju cinematográfico",
+      "descripcion": "Drama chino de época en live-action cinematográfico: primeros planos, bokeh cremoso, carmesí, jade y oro, personajes originales que hablan con sus voces en Google Flow. Sin subtítulos ni texto en pantalla.",
+      "icono": "escena",
+      "archivo": "estilos/duanju-cinematografico.sloth-estilo",
+      "ejemplo": "ejemplos/duanju-cinematografico.mp4",
+      "version": "1.0",
+      "aprobado": "2026-11-25"
+    },
+    {
       "id": "mexicana-en-un-barrio",
       "titulo": "Comedia política de barrio en 3D (Mexicana en un barrio)",
       "descripcion": "Parodia política y de barrio: Antares, José Luis y Jazbek (o los personajes que tú quieras) con sus voces, en un episodio de 90 s con «¡Continuará!».",
